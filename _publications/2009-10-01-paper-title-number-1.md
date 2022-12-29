@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Capturing Symmetries of Quantum Optimization Algorithms using Graph Neural Networks"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/qaoagnn
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 12/2022
+venue: 'Symmetry'
+paperurl: 'https://doi.org/10.3390/sym14122593'
+citation: 'Deshpande, A.; Melnikov, A. Capturing Symmetries of Quantum Optimization Algorithms Using Graph Neural Networks. Symmetry 2022, 14, 2593. https://doi.org/10.3390/sym14122593'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper explores the use of GNNs for performance and parameter prediction in Variational Quantum Optimization Algorithms.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://doi.org/10.3390/sym14122593)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Deshpande, A.; Melnikov, A. Capturing Symmetries of Quantum Optimization Algorithms Using Graph Neural Networks. Symmetry 2022, 14, 2593. https://doi.org/10.3390/sym14122593
