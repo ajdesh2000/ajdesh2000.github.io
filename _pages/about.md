@@ -27,7 +27,7 @@ Ajinkya Deshpande, Alexey Melnikov
 Symmetry by MDPI 2023 <href a="https://www.mdpi.com/2073-8994/14/12/2593">Link</href></li>
 </ul>
 
-<h3>Recent updates:</h3>h3>
+<h3>Recent updates:</h3>
 <ul>
   <li>September 2022. Our paper (for which I am first author), was accepted at NeurIPS '23  (also presented at MLG, KDD '23).</li>  
   <li>July 2021 - August 2022: Worked as a Software Engineer II at Walmart Global Tech.</li>
