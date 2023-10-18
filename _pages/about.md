@@ -12,7 +12,7 @@ This is Ajinkya Deshpande's home on the web!
 
 I am a pre-doctoral researcher (Research fellow) at Microsoft Research Lab India. I am interested in topics like Graph Representation Learning, Node Classification and Spectral Methods, and applications to diverse domains like Multi-Behaviour recommendation, Code Generation and Quantum Computing. I received the Bachelor of Engineering in Computer Science Degree, along with a Minor in Physics from BITS Pilani in 2021. Most recently, our conference paper on graph unsupervised representation learning under heterophily, for which I was first author, was accepted at NeurIPS ’23.
 
-Please find my Resume <a href="https://drive.google.com/file/d/1QKr8XAZkWj1zARwKwOCgqf0RQNBW4QM9/view?usp=share_link">here</a>. 
+Please find my Resume <a href="https://drive.google.com/file/d/1VytMI2sQT_ssPSvIvxxixre2KqXSvzxX/view?usp=share_link">here</a>. 
 
 <h3>Publications:</h3>
 <ul>
