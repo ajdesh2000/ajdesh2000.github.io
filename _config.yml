@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ajinkya Deshpande"
 title_separator          : "-"
 name                     : &name "Ajinkya Deshpande"
-description              : &description "Research Fellow at Microsoft Research"
+description              : &description "Research Fellow,<br>Microsoft Research"
 url                      : https://ajdesh2000.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ajdesh2000/ajdesh2000.github.io"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ajinkya-deshpande-84269b152"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8921-9583"
   pinterest        :
   soundcloud       :
