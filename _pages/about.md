@@ -14,15 +14,15 @@ Please find my Resume <a href="https://drive.google.com/file/d/1VytMI2sQT_ssPSvI
 
 <h3>Publications:</h3>
 <ul>
-<li>[c] <a href="https://neurips.cc/virtual/2023/poster/69941"> FiGURe: Simple and Efficient Unsupervised Node Representations with Filter Augmentations.
+<li>[c] <a href="https://neurips.cc/virtual/2023/poster/69941"> FiGURe: Simple and Efficient Unsupervised Node Representations with Filter Augmentations.</a>
 Ajinkya P. Deshpande*, Chanakya Ekbote*, Arun Iyer, Ramakrishna Bairi and Sundararajan Sellamanickam
-Neural Information Processing Systems (NeurIPS) 2023 </a>.</li>
-<li>[w] <a href="http://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_15.pdf"> FiGURe: Simple and Efficient Unsupervised Node Representations with Filter Augmentations.
+Neural Information Processing Systems (NeurIPS) 2023.</li>
+<li>[w] <a href="http://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_15.pdf"> FiGURe: Simple and Efficient Unsupervised Node Representations with Filter Augmentations.</a>
 Ajinkya P. Deshpande*, Chanakya Ekbote*, Arun Iyer, Ramakrishna Bairi and Sundararajan Sellamanickam
-Workshop on Mining and Learning with Graphs (MLG) at KDD 2023 </a>.</li>
-<li>[j] <a href="https://www.mdpi.com/2073-8994/14/12/2593">Capturing Symmetries of Quantum Optimization Algorithms Using Graph Neural Networks
+Workshop on Mining and Learning with Graphs (MLG) at KDD 2023.</li>
+<li>[j] <a href="https://www.mdpi.com/2073-8994/14/12/2593">Capturing Symmetries of Quantum Optimization Algorithms Using Graph Neural Networks</a>
 Ajinkya Deshpande, Alexey Melnikov
-Symmetry by MDPI 2023 </a></li>
+Symmetry by MDPI 2023</li>
 </ul>
 
 <h3>Recent updates:</h3>
