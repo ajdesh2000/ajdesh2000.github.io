@@ -22,7 +22,7 @@ Ajinkya P. Deshpande*, Chanakya Ekbote*, Arun Iyer, Ramakrishna Bairi and Sundar
 Workshop on Mining and Learning with Graphs (MLG) at KDD 2023.</li>
 <li>[j] <a href="https://www.mdpi.com/2073-8994/14/12/2593">Capturing Symmetries of Quantum Optimization Algorithms Using Graph Neural Networks</a>
 Ajinkya Deshpande, Alexey Melnikov
-Symmetry by MDPI 2023</li>
+Symmetry by MDPI 2022</li>
 </ul>
 
 <h3>Recent updates:</h3>
