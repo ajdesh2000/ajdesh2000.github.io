@@ -19,8 +19,8 @@ Ajinkya Deshpande*, Anmol Agarwal*, Shashank Shet*, Arun Iyer, Aditya Kanade, Ra
 DMLR-ICML 2024.</li>
 <li> <a href="https://neurips.cc/virtual/2023/poster/69941"> FiGURe: Simple and Efficient Unsupervised Node Representations with Filter Augmentations.</a>
 Ajinkya P. Deshpande*, Chanakya Ekbote*, Arun Iyer, Ramakrishna Bairi and Sundararajan Sellamanickam
-Neural Information Processing Systems (NeurIPS) 2023 and MLG-KDD 2024.</li>
-<li>[j] <a href="https://www.mdpi.com/2073-8994/14/12/2593">Capturing Symmetries of Quantum Optimization Algorithms Using Graph Neural Networks</a>
+Neural Information Processing Systems (NeurIPS) 2023 and MLG-KDD 2023.</li>
+<li> <a href="https://www.mdpi.com/2073-8994/14/12/2593">Capturing Symmetries of Quantum Optimization Algorithms Using Graph Neural Networks</a>
 Ajinkya Deshpande, Alexey Melnikov
 Symmetry by MDPI 2022</li>
 </ul>
