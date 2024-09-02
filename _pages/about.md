@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master of Science in Machine Learning student at Carnegie Melon University (expected graduation: December 2025). I am interested in topics like Graph Representation Learning, Natural Language Processing, Foundation Models and applications to diverse domains like User Recommendations, Code Generation and Quantum Computing. Prior to my current studies, I spent two impactful years as a Research Fellow at Microsoft Research, India, where I was forunate to be advised by Arun Iyer, Aditya Kanade and Sundararajan Sellamanickam. During this time, I developed novel methods for graph representation learning and natural language-to-code generation. I received the Bachelor of Engineering in Computer Science Degree, along with a Minor in Physics from BITS Pilani in 2021. 
+I am a Master of Science in Machine Learning student at Carnegie Mellon University (expected graduation: December 2025). I am interested in topics like Graph Representation Learning, Natural Language Processing, Foundation Models and applications to diverse domains like User Recommendations, Code Generation and Quantum Computing. Prior to my current studies, I spent two impactful years as a Research Fellow at Microsoft Research, India, where I was forunate to be advised by Arun Iyer, Aditya Kanade and Sundararajan Sellamanickam. During this time, I developed novel methods for graph representation learning and natural language-to-code generation. I received the Bachelor of Engineering in Computer Science Degree, along with a Minor in Physics from BITS Pilani in 2021. 
 
 Please find my Resume <a href="https://drive.google.com/file/d/1VytMI2sQT_ssPSvIvxxixre2KqXSvzxX/view?usp=share_link">here</a>. 
 
