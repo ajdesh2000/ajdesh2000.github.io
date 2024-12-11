@@ -28,7 +28,7 @@ Symmetry by MDPI 2022</li>
 <h3>Recent updates:</h3>
 <ul>
   <li>August 2024: Began the Master of Science in Machine Learning program at CMU!</li>    
-  <li>June 2024: Our paper on <a href="https://arxiv.org/abs/2405.01573"> repository-level code generation </a> was accepted at NeurIPS '23 !</li>  
+  <li>June 2024: Our paper on <a href="https://arxiv.org/abs/2405.01573"> repository-level code generation </a> was accepted at DMLR-ICML '24 !</li>  
   <li>September 2023: Our paper on <a href="https://neurips.cc/virtual/2023/poster/69941"> graph representation learning </a>was accepted at NeurIPS '23 !(also presented at MLG, KDD '23).</li>  
   <li>July 2021 - August 2022: Worked as a Software Engineer II at Walmart Global Tech.</li>
   <li>March 2021 - June 2021: Worked as a Research Consultant at Terra Quantum AG, Switzerland, with publications and patents in quantum computing. Accepted in November 2022: Co-authored a journal article on "Capturing symmetries of Quantum Optimization Algorithms using Graph Neural Networks. Patent Pending: Application for "METHOD AND SYSTEM FOR SOLVING QUBO PROBLEMS WITH HYBRID CLASSICAL-QUANTUM SOLVERS."</li>
