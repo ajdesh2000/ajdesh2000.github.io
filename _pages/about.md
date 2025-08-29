@@ -8,25 +8,40 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master of Science in Machine Learning student at Carnegie Mellon University (expected graduation: December 2025). I am interested in topics like Graph Representation Learning, Natural Language Processing, Foundation Models and applications to diverse domains like User Recommendations, Code Generation and Quantum Computing. Prior to my current studies, I spent two impactful years as a Research Fellow at Microsoft Research, India, where I was forunate to be advised by Arun Iyer, Aditya Kanade and Sundararajan Sellamanickam. During this time, I developed novel methods for graph representation learning and natural language-to-code generation. I received the Bachelor of Engineering in Computer Science Degree, along with a Minor in Physics from BITS Pilani in 2021. 
+I am a Master of Science in Machine Learning student at Carnegie Mellon University (expected graduation: December 2025), with research interests in diffusion models, Graph Representation Learning, and Foundation Models, along with their applications to domains such as Drug Discovery, User Recommendations, Code Generation, and Quantum Computing.
+
+Most recently, I worked as an ML Research Intern at Genesis Therapeutics, where I developed inference-time guidance and Sequential Monte Carlo sampling techniques for cofolding diffusion models in the hit identification stage of the drug discovery pipeline.
+
+Prior to my graduate studies, I spent two years as a Research Fellow at Microsoft Research India, advised by Arun Iyer, Aditya Kanade, and Sundararajan Sellamanickam. There, I developed novel methods for graph representation learning (NeurIPS ’23, MLG-KDD ’24) and natural language-to-code generation (DMLR-ICML ’24), while also contributing to work on efficient LLM fine-tuning (NeurIPS ’23 LLM Efficiency Challenge).
+
+I hold a Bachelor of Engineering in Computer Science with a Minor in Physics from BITS Pilani (2021).
 
 Please find my Resume <a href="https://drive.google.com/file/d/1VytMI2sQT_ssPSvIvxxixre2KqXSvzxX/view?usp=share_link">here</a>. 
 
 <h3>Publications:</h3>
 <ul>
-<li> <a href="https://arxiv.org/abs/2405.01573"> Natural Language to Class-level Code Generation by Iterative Tool-augmented Reasoning over Repository</a>
-Ajinkya Deshpande*, Anmol Agarwal*, Shashank Shet*, Arun Iyer, Aditya Kanade, Ram Bairi, Suresh Parthasarathy
+<li> <a href="http://biorxiv.org/content/biorxiv/early/2025/04/21/2025.03.31.646238.full.pdf">LLOKI: Cross-platform Spatial Transcriptomics Integration using Optimal Transport</a>  
+Ellie Haber, Ajinkya Deshpande, Jian Ma, Spencer Krieger  
+RECOMB 2025.</li>
+
+<li> <a href="https://arxiv.org/abs/2405.01573">Natural Language to Class-level Code Generation by Iterative Tool-augmented Reasoning over Repository</a>  
+Ajinkya Deshpande*, Anmol Agarwal*, Shashank Shet*, Arun Iyer, Aditya Kanade, Ram Bairi, Suresh Parthasarathy  
 DMLR-ICML 2024.</li>
-<li> <a href="https://neurips.cc/virtual/2023/poster/69941"> FiGURe: Simple and Efficient Unsupervised Node Representations with Filter Augmentations.</a>
-Ajinkya P. Deshpande*, Chanakya Ekbote*, Arun Iyer, Ramakrishna Bairi and Sundararajan Sellamanickam
-Neural Information Processing Systems (NeurIPS) 2023 and MLG-KDD 2023.</li>
-<li> <a href="https://www.mdpi.com/2073-8994/14/12/2593">Capturing Symmetries of Quantum Optimization Algorithms Using Graph Neural Networks</a>
-Ajinkya Deshpande, Alexey Melnikov
-Symmetry by MDPI 2022</li>
+
+<li> <a href="https://neurips.cc/virtual/2023/poster/69941">FiGURe: Simple and Efficient Unsupervised Node Representations with Filter Augmentations</a>  
+Ajinkya P. Deshpande*, Chanakya Ekbote*, Arun Iyer, Ramakrishna Bairi, Sundararajan Sellamanickam  
+Neural Information Processing Systems (NeurIPS) 2023; also at MLG-KDD 2023.</li>
+
+<li> <a href="https://www.mdpi.com/2073-8994/14/12/2593">Capturing Symmetries of Quantum Optimization Algorithms Using Graph Neural Networks</a>  
+Ajinkya Deshpande, Alexey Melnikov  
+Symmetry (MDPI) 2022.</li>
 </ul>
+
 
 <h3>Recent updates:</h3>
 <ul>
+    <li>January 2025: Our paper on <a href="http://biorxiv.org/content/biorxiv/early/2025/04/21/2025.03.31.646238.full.pdf">LLOKI: cross-platform spatial transcriptomics integration</a> was accepted at RECOMB ’25!</li>
+
   <li>August 2024: Began the Master of Science in Machine Learning program at CMU!</li>    
   <li>June 2024: Our paper on <a href="https://arxiv.org/abs/2405.01573"> repository-level code generation </a> was accepted at DMLR-ICML '24 !</li>  
   <li>September 2023: Our paper on <a href="https://neurips.cc/virtual/2023/poster/69941"> graph representation learning </a>was accepted at NeurIPS '23 !(also presented at MLG, KDD '23).</li>  
