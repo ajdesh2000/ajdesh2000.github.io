@@ -36,19 +36,3 @@ Neural Information Processing Systems (NeurIPS) 2023; also at MLG-KDD 2023.</li>
 Ajinkya Deshpande, Alexey Melnikov  
 Symmetry (MDPI) 2022.</li>
 </ul>
-
-
-<h3>Recent updates:</h3>
-<ul>
-    <li>January 2025: Our paper on <a href="http://biorxiv.org/content/biorxiv/early/2025/04/21/2025.03.31.646238.full.pdf">LLOKI: cross-platform spatial transcriptomics integration</a> was accepted at RECOMB ’25!</li>
-
-  <li>August 2024: Began the Master of Science in Machine Learning program at CMU!</li>    
-  <li>June 2024: Our paper on <a href="https://arxiv.org/abs/2405.01573"> repository-level code generation </a> was accepted at DMLR-ICML '24 !</li>  
-  <li>September 2023: Our paper on <a href="https://neurips.cc/virtual/2023/poster/69941"> graph representation learning </a>was accepted at NeurIPS '23 !(also presented at MLG, KDD '23).</li>  
-  <li>July 2021 - August 2022: Worked as a Software Engineer II at Walmart Global Tech.</li>
-  <li>March 2021 - June 2021: Worked as a Research Consultant at Terra Quantum AG, Switzerland, with publications and patents in quantum computing. Accepted in November 2022: Co-authored a journal article on "Capturing symmetries of Quantum Optimization Algorithms using Graph Neural Networks. Patent Pending: Application for "METHOD AND SYSTEM FOR SOLVING QUBO PROBLEMS WITH HYBRID CLASSICAL-QUANTUM SOLVERS."</li>
-  <li>August 2021: Completed B.E. in Computer Science with a minor in Physics at BITS Pilani.</li>  
-  <li>January 2021 - May 2021: Completed an undergraduate thesis on the application of Graph Neural Networks to Quantum Computing.</li>
-  <li>March 2021 - Developed the PAL Desktop Application at MIT Media Lab for screentime intervention.</li>
-  <li>May 2020 - July 2020: Worked as a Software Engineer (Summer Intern) at Walmart Global Tech, focusing on scaling automated tests.</li>  
-</ul>
